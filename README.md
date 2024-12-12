@@ -1,5 +1,6 @@
 # SQL-murder-mystery-case
 This project uncovers a murder mystery case
+
 Murder Case Report: SQL City
 
 Date of Incident: January 15, 2018
