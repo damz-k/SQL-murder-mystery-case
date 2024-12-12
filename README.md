@@ -4,6 +4,7 @@ This project uncovers a murder mystery case
 Murder Case Report: SQL City
 
 Date of Incident: January 15, 2018
+
 Location: Local Store, SQL City
 
 Incident Overview:
